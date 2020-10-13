@@ -1,4 +1,4 @@
-__title__ = 'Solusi Data Media'
+__title__ = 'Speedfile'
 __version__ = '3.5.1-1.0.0'
 __build__ = 0x030501
 __build_string__ = 'v3.5.1_Sun Oct 11 03:37:02 2020 -0400'
@@ -9,4 +9,4 @@ __description__ = 'Total Solutions Electronic Document Management System'
 __license__ = 'Apache 2.0'
 __copyright_short__ = '2020 Solusi Data media'
 __copyright__ = '{} {}'.format('Copyright', __copyright_short__)
-__website__ = 'https://www.mayan-edms.com'
+__website__ = 'https://www.SolusiDataMedia.com'

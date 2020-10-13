@@ -29,11 +29,11 @@ msgstr "Daftar akses kontrol"
 
 #: events.py:10
 msgid "ACL created"
-msgstr "Daftar akses kontrol dibuat"
+msgstr "Daftar akses kontrol berhasil dibuat"
 
 #: events.py:13
 msgid "ACL edited"
-msgstr "Daftar akses kontrol diubah"
+msgstr "Daftar akses kontrol berhasil diubah"
 
 #: forms.py:13 models.py:44 views.py:67
 msgid "Role"
